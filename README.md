@@ -78,16 +78,6 @@ olympic-paralympic-equality-peaks/
 ├── notebooks/
 │   └── analysis.ipynb                 # Full analysis notebook (Colab-ready)
 │
-├── output/
-│   ├── olympic_delegations.csv        # Processed Olympic data with regions
-│   ├── paralympic_delegations.csv     # Processed Paralympic data with regions
-│   ├── olympic_gender_changes.csv     # Edition-to-edition gender changes
-│   ├── paralympic_participation_changes.csv
-│   ├── paralympic_gender_changes.csv
-│   ├── olympic_sustained_gender_increases.csv
-│   ├── paralympic_sustained_growth.csv
-│   └── paralympic_sustained_gender_increases.csv
-│
 └── docs/
     └── case_studies.md                # Full case study analysis (6 countries)
 ```
