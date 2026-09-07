@@ -78,6 +78,7 @@ olympic-paralympic-equality-peaks/
 ├── notebooks/
    └── Olympic_&_Paralympic_Gender_Equality_and_Participation_Analysis.ipynb                             
 
+
 ## Data Sources
 
 - **Olympic athletes (1896–2016)**: [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) — individual athlete-level data scraped from sports-reference.com (rgriffin, 2018)
