@@ -76,11 +76,7 @@ olympic-paralympic-equality-peaks/
 │   └── paralympics.xlsx               # Raw Paralympic delegation data (1960–2026)
 │
 ├── notebooks/
-│   └── analysis.ipynb                 # Full analysis notebook (Colab-ready)
-│
-└── docs/
-    └── case_studies.md                # Full case study analysis (6 countries)
-```
+   └── Olympic_&_Paralympic_Gender_Equality_and_Participation_Analysis.ipynb                             
 
 ## Data Sources
 
