@@ -84,8 +84,10 @@ olympic-paralympic-equality-peaks/
 
 ## Data Sources
 
-- **Olympic athletes**: individual-level records covering 206 NOCs, 1896–2026 ([[source](https://www.kaggle.com/datasets](https://www.kaggle.com/code/ridamahmood005/120-years-of-olympics-seaborn-plotly)))
-- **Paralympic delegations**: country-level aggregates covering 188 NPCs, 1960–2026
+- **Olympic athletes (1896–2016)**: [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results) — individual athlete-level data scraped from sports-reference.com (rgriffin, 2018)
+- **Olympic delegations (2020–2026)**: Delegation totals (men/women) compiled from official Olympic records and Wikipedia country pages
+- **Paralympic delegations (1960–2026)**: Country-level delegation data (men/women/total) compiled from IPC records and Wikipedia country pages
+- **IOC Continental Associations**: Official IOC regional groupings
 
 ## Tools
 
